@@ -2,7 +2,7 @@
 
 **`Entusiasta de Machine Learning e Data Science | Estudante de Ciência da Computação`**
 
-Meu nome é Bruno, tenho 22 anos e sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – Campus Presidente Epitácio. Gosto muito de aprender e estou sempre em busca de novos conhecimentos, especialmente no universo da tecnologia. Tenho grande interesse por Ciência e Análise de Dados e sou fascinado por tudo que envolve Aprendizado de Máquina — áreas que me motivam a explorar soluções inteligentes e inovadoras.
+"Meu nome é Bruno, tenho 22 anos e sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – Campus Presidente Epitácio. Gosto muito de aprender e estou sempre em busca de novos conhecimentos, especialmente no universo da tecnologia. Tenho grande interesse por Ciência e Análise de Dados e sou fascinado por tudo que envolve Aprendizado de Máquina — áreas que me motivam a explorar soluções inteligentes e inovadoras."
 
 ---
 
@@ -74,11 +74,27 @@ Meu nome é Bruno, tenho 22 anos e sou estudante de Bacharelado em Ciência da C
 />
 <img 
     align="left" 
+    alt="PrimeNG" 
+    title="PrimeNG"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/primeng/primeng-original.svg"
+/>
+<img 
+    align="left" 
     alt="Prisma" 
     title="Prisma"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Puppeteer" 
+    title="Puppeteer"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg"
 />
 <img 
     align="left" 
@@ -119,6 +135,14 @@ Meu nome é Bruno, tenho 22 anos e sou estudante de Bacharelado em Ciência da C
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Anaconda" 
+    title="Anaconda"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
 />
 <img 
     align="left" 
@@ -170,6 +194,8 @@ Meu nome é Bruno, tenho 22 anos e sou estudante de Bacharelado em Ciência da C
 />
 <br/>
 <br/>
+<br/>
+
 
 ### 📊 Estatísticas
 
