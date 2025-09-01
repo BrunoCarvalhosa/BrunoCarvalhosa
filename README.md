@@ -199,30 +199,31 @@
 
 ### 📊 Estatísticas
 
-<div style="text-align: center;">
-  <p>
-    <img 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=brunocarvalhosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
-    <img 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-left: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarvalhosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-  </p>
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img alt="GitHub Stats" border="0"
+        src="https://github-readme-stats.vercel.app/api?username=brunocarvalhosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        height="200" />
+    </td>
+    <td align="center" valign="top">
+      <img alt="Tecnologias" border="0"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarvalhosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        height="200" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img alt="GitHub Streak" border="0"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=brunocarvalhosa&theme=tokyonight&locale=pt-br"
+        width="860" />
+    </td>
+  </tr>
+</table>
 
-  <p>
-    <img 
-      alt="GitHub Streak" 
-      height="200" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=brunocarvalhosa&theme=tokyonight&locale=pt-br" 
-    />
-  </p>
-</div>
+
+
+
 
 ---
 
