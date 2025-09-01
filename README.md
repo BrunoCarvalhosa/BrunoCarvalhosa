@@ -216,6 +216,7 @@
 </p>
 
 <br clear="left" />
+<br/>
 
 <p align="left">
   <img
