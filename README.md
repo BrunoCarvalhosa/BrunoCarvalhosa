@@ -2,6 +2,7 @@
 
 **`Entusiasta de Machine Learning e Data Science | Estudante de Ciência da Computação`**
 
+Meu nome é Bruno, tenho 22 anos e sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – Campus Presidente Epitácio. Gosto muito de aprender e estou sempre em busca de novos conhecimentos, especialmente no universo da tecnologia. Tenho grande interesse por Ciência e Análise de Dados e sou fascinado por tudo que envolve Aprendizado de Máquina — áreas que me motivam a explorar soluções inteligentes e inovadoras.
 "Meu nome é Bruno, tenho 22 anos e sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – Campus Presidente Epitácio. Gosto muito de aprender e estou sempre em busca de novos conhecimentos, especialmente no universo da tecnologia. Tenho grande interesse por Ciência e Análise de Dados e sou fascinado por tudo que envolve Aprendizado de Máquina — áreas que me motivam a explorar soluções inteligentes e inovadoras."
 
 ---
@@ -199,32 +200,29 @@
 
 ### 📊 Estatísticas
 
-<table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tr>
-    <td align="center" valign="top">
-      <img alt="GitHub Stats" border="0"
-        src="https://github-readme-stats.vercel.app/api?username=brunocarvalhosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-        height="200" />
-    </td>
-    <td align="center" valign="top">
-      <img alt="Tecnologias" border="0"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarvalhosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-        height="200" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <img alt="GitHub Streak" border="0"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=brunocarvalhosa&theme=tokyonight&locale=pt-br"
-        width="860" />
-    </td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <p>
+    <img 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api?username=brunocarvalhosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding-left: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarvalhosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+  </p>
 
-
-
-
+  <p>
+    <img 
+      alt="GitHub Streak" 
+      height="200" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=brunocarvalhosa&theme=tokyonight&locale=pt-br" 
+    />
+  </p>
+</div>
 
 ---
-
-
