@@ -2,7 +2,7 @@
 
 **`Entusiasta de Machine Learning e Data Science | Estudante de Ciência da Computação`**
 
-"Meu nome é Bruno, tenho 22 anos e sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – Campus Presidente Epitácio. Gosto muito de aprender e estou sempre em busca de novos conhecimentos, especialmente no universo da tecnologia. Tenho grande interesse por Ciência e Análise de Dados e sou fascinado por tudo que envolve Aprendizado de Máquina — áreas que me motivam a explorar soluções inteligentes e inovadoras."
+Meu nome é Bruno, tenho 22 anos e sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – Campus Presidente Epitácio. Gosto muito de aprender e estou sempre em busca de novos conhecimentos, especialmente no universo da tecnologia. Tenho grande interesse por Ciência e Análise de Dados e sou fascinado por tudo que envolve Aprendizado de Máquina — áreas que me motivam a explorar soluções inteligentes e inovadoras.
 
 ---
 
@@ -222,7 +222,7 @@
   <img
     alt="GitHub Streak"
     src="https://github-readme-streak-stats.herokuapp.com/?user=brunocarvalhosa&theme=tokyonight&locale=pt-br"
-    width="600"
+    width="860"
   />
 </p>
 
