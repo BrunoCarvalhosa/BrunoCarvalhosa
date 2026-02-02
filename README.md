@@ -2,7 +2,7 @@
 
 **`Entusiasta de Machine Learning e Data Science | Estudante de Ciência da Computação`**
 
-Meu nome é Bruno Carvalho Sampaio, tenho 22 anos e sou estudante do curso de Bacharelado em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) – Campus Presidente Epitácio. Mantenho neste perfil alguns projetos interessantes desenvolvidos aos longo do curso.
+Meu nome é Bruno Carvalho Sampaio, tenho 22 anos e concluí recentemente o curso de Bacharelado em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) – Campus Presidente Epitácio. Mantenho neste perfil alguns projetos interessantes desenvolvidos aos longo do curso.
 
 ---
 
